@@ -13,7 +13,7 @@ function App() {
       <NavBar />
       <div className="flex">
      <Sidebar />
-        <div className="ml-64 p-4 w-full">
+        <div className="ml-64 p-4 ">
           <Routes>
             <Route path='/home' element={<Home />} />
             <Route path='/completed' element={<Completed />} />

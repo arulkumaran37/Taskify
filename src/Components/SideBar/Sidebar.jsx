@@ -28,7 +28,7 @@ const SideBar = () => {
     
     const location = useLocation();
     return (
-        <div className="w-120 h-screen bg-[#f2f8f9] shadow-md text-gray-800 flex flex-col">
+        <div className="w-70 h-screen bg-[#F7F7F7] shadow-md text-gray-800 flex flex-col ">
             <div className="flex items-center justify-center h-16">
                 <Link to="/home" className="text-2xl font-bold">
                     <img src={Logo} alt="Taskify" className="h-50  mt-10" />
