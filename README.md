@@ -28,6 +28,6 @@
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/taskify.git
+git clone https://github.com/arulkumaran37/taskify.git
 cd taskify
 npm install
